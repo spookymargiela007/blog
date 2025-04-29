@@ -30,7 +30,7 @@ export async function GET() {
       >
         <header tw="flex text-[36px] w-full">
           <div tw="font-bold" style={font("Inter 600")}>
-            Guillermo Rauch
+            Greg Charles
           </div>
           <div tw="grow" />
           <div tw="text-[28px]">rauchg.com</div>
