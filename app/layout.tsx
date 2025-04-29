@@ -12,11 +12,11 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Greg Charles's blog",
   description:
-    "Greg Charles is a growth marketing and product leader. He is the founder of Parallel AI, and owner of coldplungetubs.com, and is known for building 0 -> 1 systems that unlock rapid growth and operating leverage.",
+    "Greg Charles is a growth marketing and product leader. He is the founder of Parallel AI, and owner of coldplungetubs.com, and is known for building 0 → 1 systems that unlock rapid growth and operating leverage.",
   openGraph: {
     title: "Greg Charles's blog",
     description:
-      "Greg Charles is a growth marketing and product leader. He is the founder of Parallel AI, and owner of coldplungetubs.com, and is known for building 0 -> 1 systems that unlock rapid growth and operating leverage.",
+      "Greg Charles is a growth marketing and product leader. He is the founder of Parallel AI, and owner of coldplungetubs.com, and is known for building 0 → 1 systems that unlock rapid growth and operating leverage.",
     url: "https://gregrc.com",
     siteName: "Greg Charles's blog",
     images: ["/opengraph-image"],
