@@ -7,8 +7,8 @@ import { join } from "path";
 import commaNumber from "comma-number";
 
 // Image
-const rauchgPhoto = toArrayBuffer(
-  readFileSync(join(process.cwd(), "public/images/rauchg-3d4cecf.gray.jpg"))
+const gregrcPhoto = toArrayBuffer(
+  readFileSync(join(process.cwd(), "public/images/gregrc_hero_image.png"))
 );
 
 // Fonts
@@ -44,7 +44,7 @@ export async function GET() {
                 tw="rounded-full h-74"
                 alt="Greg Charles"
                 // @ts-ignore
-                src={rauchgPhoto}
+                src={gregrcPhoto}
               />
             </div>
 
@@ -53,8 +53,8 @@ export async function GET() {
                 Greg Charles
               </div>
               <div tw="flex mb-5" style={font("Roboto Mono 400")}>
-                <span tw="text-gray-400 mr-3">&mdash;</span> CEO and Founder of
-                Vercel
+                <span tw="text-gray-400 mr-3">&mdash;</span> Founder and CEO of
+                Parallel AI, Inc.
               </div>
               <div tw="flex mb-5" style={font("Roboto Mono 400")}>
                 <span tw="text-gray-400 mr-3">&mdash;</span> Creator of Next.js,
