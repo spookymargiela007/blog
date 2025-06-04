@@ -36,7 +36,7 @@ module.exports = withMDX({
   headers() {
     return [
       {
-        source: "/images/rauchg-3d4cecf.jpg",
+        source: "/images/gregrc_profile_image.jpeg",
         headers: [
           {
             key: "cache-control",
@@ -55,7 +55,7 @@ module.exports = withMDX({
       },
       {
         source: "/slackin/:nested*",
-        destination: "https://github.com/rauchg/slackin",
+        destination: "https://github.com/spookymargiela007",
         permanent: true,
       },
     ];

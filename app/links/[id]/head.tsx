@@ -14,10 +14,10 @@ export default function LinkHead({ params }: { params: { id: string } }) {
       <meta property="og:site_name" content="Greg Charles" />
       <meta property="og:description" content={link.description} />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@rauchg" />
+      <meta name="twitter:site" content="@gcharles10x" />
       <meta
         property="og:image"
-        content={`https://rauchg.com/og/${link.image}`}
+        content={`https://gregrc.com/og/${link.image}`}
       />
     </>
   );
