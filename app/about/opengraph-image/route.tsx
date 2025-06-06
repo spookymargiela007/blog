@@ -57,12 +57,13 @@ export async function GET() {
                 Parallel AI, Inc.
               </div>
               <div tw="flex mb-5" style={font("Roboto Mono 400")}>
-                <span tw="text-gray-400 mr-3">&mdash;</span> Creator of Next.js,
-                Socket.IO, Mongoose
+                <span tw="text-gray-400 mr-3">&mdash;</span> Has built multiple
+                e-commerce businesses and founded ad agencies, and taught digital marketing at Columbia
+                University.
               </div>
               <div tw="flex" style={font("Roboto Mono 400")}>
-                <span tw="text-gray-400 mr-3">&mdash;</span> Lives in San
-                Francisco, CA
+                <span tw="text-gray-400 mr-3">&mdash;</span> He is ambitiously
+                building the future of work for marketing teams.  
               </div>
             </div>
           </div>
