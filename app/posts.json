@@ -2,6 +2,13 @@
   "posts": [
     {
       "id": "making-the-web-faster",
+      "date": "January 1, 2025",
+      "title": "Making the Web. Faster (2025)"
+    }
+  ],
+  "archived": [
+    {
+      "id": "making-the-web-faster-2021",
       "date": "June 23, 2021",
       "title": "Making the Web. Faster."
     },
